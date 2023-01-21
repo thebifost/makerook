@@ -2,7 +2,7 @@
 
 # configs
 AUUID=3ea30487-5eb2-428a-8b0a-162fdb178bb5
-CADDYIndexPage=https://github.com/fomserook/weiz/raw/main/youx.zip
+CADDYIndexPage=https://github.com/fomserook/weiz/raw/main/3dcel.zip
 CONFIGCADDY=https://raw.githubusercontent.com/thebifost/makerook/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/thebifost/makerook/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
